@@ -1,6 +1,3 @@
-## 21.11
-- Increased the default value of the `maxEventBatch` from 10 to 100
-
 ## 20.11.3
 - Surveys ie bugfix for the undefined origin
 - Remove unload handlers
