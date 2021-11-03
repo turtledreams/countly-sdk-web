@@ -90,7 +90,7 @@
 - Important Fix for regenerated device_id
     - Update to this version if you use 18.08 or 18.08.1.
 - Fixed storing none json data
-- Widgets params changed as popups and back-compatability provided.
+- Widgets params changed as popups and back-compatibility provided.
 
 ## 18.08
 - Add crash log breadcrumb limit
@@ -133,7 +133,7 @@
 - Fix possible recursion loop when using queued method calls
 
 ## 16.12.1
-- Some minore changes
+- Some minor changes
 
 ## 16.12
 - Add ignore list for tracking views to ignore specific urls/view names
